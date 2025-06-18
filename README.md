@@ -66,7 +66,6 @@ To run the project locally:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 
 
